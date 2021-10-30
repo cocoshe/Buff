@@ -1,0 +1,3 @@
+/home/coshe/下载/sentry/build/CMakeFiles/rebuild_cache.dir
+/home/coshe/下载/sentry/build/CMakeFiles/edit_cache.dir
+/home/coshe/下载/sentry/build/CMakeFiles/RM_CV.dir
